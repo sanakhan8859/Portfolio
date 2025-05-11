@@ -47,11 +47,11 @@ export default function Hero() {
         <div className="flex flex-col md:flex-row items-center gap-8 md:gap-16">
           <div className="w-full md:w-1/2 order-2 md:order-1">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-4">
-              Hi, I'm <span className="text-primary">John Doe</span>
+              Hi, I'm <span className="text-primary">Amber Afreen</span>
             </h1>
             <h2 className="text-2xl md:text-3xl font-medium mb-6">
               Computer Science Student at{" "}
-              <span className="text-primary">Tech University</span>
+              <span className="text-primary">Lovely Professional University</span>
             </h2>
             <p className="text-lg text-muted-foreground mb-6">
               Passionate about building innovative solutions and exploring new
@@ -94,8 +94,8 @@ export default function Hero() {
           <div className="w-full md:w-1/2 order-1 md:order-2 flex justify-center">
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary shadow-xl">
               <img
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80"
-                alt="John Doe"
+                src="E:\image12.jpg"
+                alt="Amber Afreen"
                 className="w-full h-full object-cover"
               />
             </div>

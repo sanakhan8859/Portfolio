@@ -14,7 +14,7 @@ interface TimelineItem {
 }
 
 const timelineData: TimelineItem[] = [
-  {
+  /*{
     id: 1,
     title: "Software Development Intern",
     company: "Tech Solutions Inc.",
@@ -28,23 +28,23 @@ const timelineData: TimelineItem[] = [
     skills: ["React", "Node.js", "TypeScript", "Git"],
     logo: "https://api.dicebear.com/7.x/identicon/svg?seed=TechSolutions",
     type: "internship",
-  },
+  },*/
   {
     id: 2,
-    title: "HackTech 2023 Participant",
-    company: "HackTech",
-    location: "Virtual",
-    period: "March 2023",
+    title: "HackCBS 2022 Participant",
+    company: "HackCBS",
+    location: "DTU Campus",
+    period: "March 2022",
     description: [
       "Developed EcoTrack, an app that helps users track and reduce their carbon footprint",
-      "Won 2nd place overall among 120+ teams",
+      "Won 2nd runner up overall among 120+ teams",
       "Implemented real-time data visualization using React Native and Firebase",
     ],
     skills: ["React Native", "Firebase", "Google Maps API"],
     logo: "https://api.dicebear.com/7.x/identicon/svg?seed=HackTech",
     type: "hackathon",
   },
-  {
+  /*{
     id: 3,
     title: "Data Science Intern",
     company: "Data Insights Co.",
@@ -58,13 +58,13 @@ const timelineData: TimelineItem[] = [
     skills: ["Python", "Pandas", "Scikit-learn", "Tableau"],
     logo: "https://api.dicebear.com/7.x/identicon/svg?seed=DataInsights",
     type: "internship",
-  },
+  },*/
   {
     id: 4,
     title: "CodeFest 2022 Participant",
     company: "University Tech Hub",
     location: "University Campus",
-    period: "November 2022",
+    period: "November 2023",
     description: [
       "Developed StudyBuddy, a platform to find study partners and form study groups",
       "Won Best UI/UX Design award",
@@ -74,7 +74,7 @@ const timelineData: TimelineItem[] = [
     logo: "https://api.dicebear.com/7.x/identicon/svg?seed=CodeFest",
     type: "hackathon",
   },
-  {
+  /*{
     id: 5,
     title: "Web Development Teaching Assistant",
     company: "Tech University",
@@ -88,7 +88,7 @@ const timelineData: TimelineItem[] = [
     skills: ["HTML/CSS", "JavaScript", "Teaching", "Communication"],
     logo: "https://api.dicebear.com/7.x/identicon/svg?seed=TechUniversity",
     type: "work",
-  },
+  },*/
 ];
 
 export default function ExperienceTimeline() {

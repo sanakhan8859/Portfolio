@@ -47,12 +47,12 @@ export default function Contact() {
     {
       name: "GitHub",
       icon: <Github className="h-5 w-5" />,
-      url: "https://github.com/username",
+      url: "https://github.com/sanakhan8859/Hospital-Management-System.git",
     },
     {
       name: "LinkedIn",
       icon: <Linkedin className="h-5 w-5" />,
-      url: "https://linkedin.com/in/username",
+      url: "https://www.linkedin.com/in/amber-afreen-sana27/",
     },
     {
       name: "Twitter",
@@ -62,7 +62,7 @@ export default function Contact() {
     {
       name: "Email",
       icon: <Mail className="h-5 w-5" />,
-      url: "mailto:john.doe@example.com",
+      url: "mailto:amberafreen38718@gmail.com",
     },
   ];
 
@@ -164,25 +164,25 @@ export default function Contact() {
 
             <Card className="border border-gray-200 shadow-md">
               <CardHeader>
-                <CardTitle>GitHub Contributions</CardTitle>
-                <CardDescription>My open source activity</CardDescription>
+                <CardTitle>Resume</CardTitle>
+                <CardDescription>Resume</CardDescription>
               </CardHeader>
               <CardContent>
                 <div className="bg-white p-4 rounded-md border border-gray-200">
                   <img
-                    src="https://ghchart.rshah.org/username"
-                    alt="GitHub Contribution Graph"
+                    src="E:\AmazonResume.pdf"
+                    alt="Resume"
                     className="w-full h-auto"
                   />
                   <div className="mt-4 flex justify-center">
                     <Button variant="outline" size="sm" asChild>
                       <a
-                        href="https://github.com/username"
+                        href="E:\AmazonResume.pdf"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center gap-2"
                       >
-                        <span>View GitHub Profile</span>
+                        <span>View Resume</span>
                         <ExternalLink className="h-4 w-4" />
                       </a>
                     </Button>

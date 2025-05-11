@@ -6,7 +6,7 @@ export default function Footer() {
   const socialLinks = [
     {
       icon: <Github className="h-5 w-5" />,
-      url: "https://github.com/username",
+      url: "https://github.com/sanakhan8859/Hospital-Management-System.git",
       label: "GitHub",
     },
     {
@@ -21,7 +21,7 @@ export default function Footer() {
     },
     {
       icon: <Mail className="h-5 w-5" />,
-      url: "mailto:john.doe@example.com",
+      url: "mailto:amberafreen38718@gmail.com",
       label: "Email",
     },
   ];
@@ -41,7 +41,7 @@ export default function Footer() {
       <div className="container px-4 mx-auto">
         <div className="grid gap-8 md:grid-cols-3">
           <div>
-            <h3 className="text-xl font-bold mb-4">John Doe</h3>
+            <h3 className="text-xl font-bold mb-4">Amber Afreen</h3>
             <p className="text-gray-300 mb-4">
               Computer Science Student at Tech University, passionate about
               building innovative solutions and exploring new technologies.
@@ -89,7 +89,7 @@ export default function Footer() {
                   href="mailto:john.doe@example.com"
                   className="hover:text-white transition-colors"
                 >
-                  john.doe@example.com
+                  amberafreen38718@gmail.com
                 </a>
               </p>
             </address>
@@ -97,7 +97,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; {currentYear} John Doe. All rights reserved.</p>
+          <p>&copy; {currentYear} Amber Afreen. All rights reserved.</p>
           <p className="text-sm mt-2">Built with React and Tailwind CSS</p>
         </div>
       </div>

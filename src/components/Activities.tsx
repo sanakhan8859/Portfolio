@@ -16,9 +16,9 @@ const activitiesData: Activity[] = [
   {
     id: 1,
     title: "Computer Science Club",
-    organization: "Tech University",
-    role: "Vice President",
-    period: "2022 - Present",
+    organization: "GDSC LPU",
+    role: "Technical Lead",
+    period: "2023",
     description:
       "Organize weekly coding workshops, tech talks, and networking events. Manage a team of 5 officers and coordinate with industry partners for sponsorships.",
     skills: ["Leadership", "Event Planning", "Public Speaking"],
@@ -30,7 +30,7 @@ const activitiesData: Activity[] = [
     title: "Peer Tutoring Program",
     organization: "Computer Science Department",
     role: "Tutor",
-    period: "2021 - Present",
+    period: "2023",
     description:
       "Provide one-on-one tutoring sessions for undergraduate students in data structures, algorithms, and web development courses.",
     skills: ["Teaching", "Communication", "Problem Solving"],
@@ -41,7 +41,7 @@ const activitiesData: Activity[] = [
     id: 3,
     title: "Open Source Contributor",
     organization: "Various Projects",
-    period: "2020 - Present",
+    period: "2024",
     description:
       "Active contributor to several open-source projects including React libraries and Python tools. Submitted bug fixes and implemented new features.",
     skills: ["Collaboration", "Code Review", "Documentation"],
@@ -52,7 +52,7 @@ const activitiesData: Activity[] = [
     id: 4,
     title: "Tech Blog Writer",
     organization: "Medium & Dev.to",
-    period: "2021 - Present",
+    period: "2023",
     description:
       "Write technical articles and tutorials on web development, machine learning, and computer science concepts. Reached over 50,000 readers.",
     skills: ["Technical Writing", "Content Creation", "Knowledge Sharing"],

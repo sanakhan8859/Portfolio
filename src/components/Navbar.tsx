@@ -36,7 +36,7 @@ export default function Navbar() {
       <div className="container px-4 mx-auto">
         <div className="flex justify-between items-center">
           <a href="#" className="text-2xl font-bold text-primary">
-            John Doe
+            Amber Afreen
           </a>
 
           {/* Desktop Navigation */}

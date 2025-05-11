@@ -12,7 +12,7 @@ interface Achievement {
 }
 
 const achievementsData: Achievement[] = [
-  {
+ /* {
     id: 1,
     title: "Dean's List",
     issuer: "Tech University",
@@ -21,24 +21,25 @@ const achievementsData: Achievement[] = [
       "Awarded for maintaining a GPA above 3.8 for the academic year.",
     icon: "🏆",
     category: "honor",
-  },
+  },*/
   {
     id: 2,
-    title: "AWS Certified Developer",
-    issuer: "Amazon Web Services",
+    title: "Google Cloud Study Jam",
+    issuer: "Goolgle Cloud Web Services",
     date: "June 2023",
     description:
       "Professional certification validating expertise in developing applications on AWS.",
     icon: "📜",
     category: "certification",
+    //url: "https://certificate.givemycertificate.com/c/8e524754-17aa-474a-a138-2fc6e7319044",
   },
   {
     id: 3,
-    title: "Best Student Project",
+    title: "Mentored 20+ Students",
     issuer: "Computer Science Department",
-    date: "May 2022",
+    date: "May 2024",
     description:
-      "Awarded for the most innovative final year project in the department.",
+      "Mentored 20+ Student for Completing the Google Cloud Learning Path.",
     icon: "🥇",
     category: "award",
   },
@@ -52,7 +53,7 @@ const achievementsData: Achievement[] = [
     icon: "📜",
     category: "certification",
   },
-  {
+  /*{
     id: 5,
     title: "Undergraduate Research Grant",
     issuer: "National Science Foundation",
@@ -61,14 +62,14 @@ const achievementsData: Achievement[] = [
       "Received grant funding for research in machine learning applications.",
     icon: "🔬",
     category: "honor",
-  },
+  },*/
   {
     id: 6,
-    title: "Hackathon Winner",
-    issuer: "TechFest 2023",
-    date: "April 2023",
+    title: "Hackathon ",
+    issuer: "Hack CBS 2022",
+    date: "April 2022",
     description:
-      "First place in the university's annual hackathon competition.",
+      "Second runner up in hack CBS competition.",
     icon: "🏆",
     category: "award",
   },

@@ -54,21 +54,21 @@ const projectsData: Project[] = [
     technologies: ["React", "Node.js", "MongoDB", "Express", "Stripe API"],
     image:
       "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=80",
-    github: "https://github.com/username/ecommerce",
+    github: "https://github.com/sanakhan8859/Hospital-Management-System.git",
     demo: "https://ecommerce.example.com",
     category: "Web Development",
   },
   {
     id: 3,
-    title: "Machine Learning Image Classifier",
-    description: "An image classification model using TensorFlow and Keras.",
+    title: "Hospital Management System",
+    description: "A web application for managing hospital operations.",
     longDescription:
-      "Developed a convolutional neural network (CNN) for image classification. The model was trained on a dataset of 10,000 images across 10 categories and achieved 92% accuracy on the test set.",
-    technologies: ["Python", "TensorFlow", "Keras", "NumPy"],
+      "Developed a website for Searching the Services of Hospital in Different Cities.",
+    technologies: ["React", "Nodejs", "Expressjs", "Javascript"],
     image:
       "https://images.unsplash.com/photo-1527474305487-b87b222841cc?w=600&q=80",
-    github: "https://github.com/username/image-classifier",
-    category: "Machine Learning",
+    github: "https://github.com/sanakhan8859/Hospital-Management-System.git",
+    category: "Web Development",
   },
 ];
 
