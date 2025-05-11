@@ -11,7 +11,7 @@ export default function Footer() {
     },
     {
       icon: <Linkedin className="h-5 w-5" />,
-      url: "https://linkedin.com/in/username",
+      url: "https://linkedin.com/in/amber-afreen-sana27",
       label: "LinkedIn",
     },
     {
