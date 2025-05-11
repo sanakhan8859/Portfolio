@@ -81,9 +81,9 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">Contact</h3>
             <address className="not-italic text-gray-300 space-y-2">
-              <p>123 University Ave</p>
-              <p>Tech City, TC 12345</p>
-              <p>United States</p>
+              <p>Lovely Professional University Ave</p>
+              <p>Jalandhar,Punjab</p>
+              <p>India</p>
               <p className="mt-4">
                 <a
                   href="mailto:john.doe@example.com"
