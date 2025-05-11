@@ -177,7 +177,7 @@ export default function Contact() {
                   <div className="mt-4 flex justify-center">
                     <Button variant="outline" size="sm" asChild>
                       <a
-                        href="E:\AmazonResume.pdf"
+                        href="/GENRALCV.pdf"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center gap-2"
