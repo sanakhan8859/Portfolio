@@ -42,7 +42,7 @@ const projectsData: Project[] = [
     image:
       "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=80",
     github: "https://github.com/sanakhan8859/Portfolio.git",
-    demo: "https://portfolio-orcin-theta-57.vercel.app/",
+    demo: "https://shortify-frontend-five.vercel.app/",
     category: "Web Development",
   },
   {
