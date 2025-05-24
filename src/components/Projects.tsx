@@ -41,7 +41,7 @@ const projectsData: Project[] = [
     technologies: ["React", "TypeScript", "Tailwind CSS"],
     image:
       "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=80",
-    github: "https://github.com/username/portfolio",
+    github: "https://github.com/sanakhan8859/Portfolio.git",
     demo: "https://portfolio.example.com",
     category: "Web Development",
   },
