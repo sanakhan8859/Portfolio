@@ -195,6 +195,7 @@ export default function Projects() {
                   </Button>
                 )}
 
+                <div>
                 {project.demo && (
                         <Button className="flex-1" asChild>
                           <a
@@ -206,7 +207,7 @@ export default function Projects() {
                           </a>
                         </Button>
                       )}
-
+                    </div>
                 
               </CardFooter>
             </Card>
