@@ -47,10 +47,10 @@ const projectsData: Project[] = [
   },
   {
     id: 2,
-    title: "E-commerce Platform",
-    description: "A full-stack e-commerce platform with payment integration.",
+    title: "Shortify ",
+    description: "A full-stack secure website for providing short - forms of URLs",
     longDescription:
-      "A comprehensive e-commerce solution with product catalog, shopping cart, user authentication, and payment processing. Built with MERN stack (MongoDB, Express, React, Node.js) and integrated with Stripe for payments.",
+      "Developed a full-stack URL Shortener using React.js for the frontend and Node.js, Express.js, and MongoDB for the backend. Implemented features like URL validation, shortening, redirection, and click tracking using RESTful APIs  ",
     technologies: ["React", "Node.js", "MongoDB", "Express", "Stripe API"],
     image:
       "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=80",
