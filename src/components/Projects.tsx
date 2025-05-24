@@ -55,7 +55,7 @@ const projectsData: Project[] = [
     image:
       "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=80",
     github: "https://github.com/sanakhan8859/Hospital-Management-System.git",
-    demo: "https://ecommerce.example.com",
+    demo: "https://github.com/sanakhan8859/ShortifyBackend.git",
     category: "Web Development",
   },
   {
