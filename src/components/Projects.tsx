@@ -183,6 +183,7 @@ export default function Projects() {
                     </div>
                   </DialogContent>
                 </Dialog>
+                <div>
                 {project.github && (
                   <Button variant="ghost" size="sm" asChild>
                     <a
@@ -195,7 +196,7 @@ export default function Projects() {
                   </Button>
                 )}
 
-                <div>
+                
                 {project.demo && (
                         <Button className="flex-1" asChild>
                           <a
