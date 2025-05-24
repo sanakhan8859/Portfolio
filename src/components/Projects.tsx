@@ -54,8 +54,8 @@ const projectsData: Project[] = [
     technologies: ["React", "Node.js", "MongoDB", "Express", "Stripe API"],
     image:
       "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=80",
-    github: "https://github.com/sanakhan8859/Hospital-Management-System.git",
-    demo: "https://github.com/sanakhan8859/ShortifyBackend.git",
+    github: "https://github.com/sanakhan8859/ShortifyBackend.git",
+    demo: "https://shortify-frontend-five.vercel.app/",
     category: "Web Development",
   },
   {
