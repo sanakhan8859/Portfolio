@@ -54,7 +54,7 @@ const activitiesData: Activity[] = [
     organization: "Medium & Dev.to",
     period: "2023",
     description:
-      "Write technical articles and tutorials on web development, machine learning, and computer science concepts. Reached over 50,000 readers.",
+      "Write technical articles and tutorials on web development, machine learning, and computer science concepts.",
     skills: ["Technical Writing", "Content Creation", "Knowledge Sharing"],
     image:
       "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
