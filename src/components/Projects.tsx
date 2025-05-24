@@ -68,7 +68,7 @@ const projectsData: Project[] = [
     image:
       "https://images.unsplash.com/photo-1527474305487-b87b222841cc?w=600&q=80",
     github: "https://github.com/sanakhan8859/Hospital-Management-System.git",
-    demo:  "https://hospital-management-system-silk-delta.vercel.app/"
+    demo:  "https://hospital-management-system-silk-delta.vercel.app/",
     category: "Web Development",
   },
 ];
@@ -194,6 +194,20 @@ export default function Projects() {
                     </a>
                   </Button>
                 )}
+
+                {project.demo && (
+                        <Button className="flex-1" asChild>
+                          <a
+                            href={project.demo}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            Live Demo
+                          </a>
+                        </Button>
+                      )}
+
+                
               </CardFooter>
             </Card>
           ))}
