@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 
 ## Overview
-This is a responsive, modern portfolio website built using **React.js**, designed to showcase my front-end development skills and personal projects. The site is optimized for performance and accessibility, deployed on Vercel for seamless delivery.
+Developed a dynamic and responsive portfolio website using React.js to showcase personal projects and technical skills. Utilized component-based architecture for scalability and code reusability. Integrated React Router for smooth navigation between sections and used custom hooks and state management for interactive features such as project modals and contact forms. Deployed the application on Vercel with CI/CD setup using Git.
 
 ## Features
 - Built with React functional components and hooks for clean, reusable code
@@ -19,4 +19,7 @@ This is a responsive, modern portfolio website built using **React.js**, designe
 - Vite (Development build tool)
 - Git & GitHub (Version control)
 - Vercel (Deployment)
+
+## Live Demo
+[https://portfolio-orcin-theta-57.vercel.app/](https://portfolio-orcin-theta-57.vercel.app/)
 
